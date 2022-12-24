@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e87521a2-f2ea-4b08-bc2f-00abda2f0d29" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scale.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/algorism.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/algorism.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OXquiz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +55,8 @@
       <workItem from="1671541563230" duration="630000" />
       <workItem from="1671542428812" duration="921000" />
       <workItem from="1671543625882" duration="598000" />
-      <workItem from="1671885936458" duration="1495000" />
+      <workItem from="1671885936458" duration="2929000" />
+      <workItem from="1671907148642" duration="329000" />
     </task>
     <servers />
   </component>
@@ -75,5 +73,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" log-message="true" log-stack="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="7" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
