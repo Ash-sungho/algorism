@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e87521a2-f2ea-4b08-bc2f-00abda2f0d29" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/NumOfWords.java" afterDir="false" />
-    </list>
+    <list default="true" id="e87521a2-f2ea-4b08-bc2f-00abda2f0d29" name="변경" comment="단어공부 1157" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +18,18 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Average.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Constant.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MaxValue.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OXquiz.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Scale.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Star.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Word_study.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/out/production/algorism/MaxValue.class" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/out/production/algorism/Star.class" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/out/production/algorism/StringRepetition.class" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -41,6 +51,9 @@
     "jdk.selected.JAVA_MODULE": "11",
     "last_opened_file_path": "C:/Users/andyk/Desktop/workspace/algorism",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "라이브러리",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "ts.external.directory.path": "C:\\Program Files\\JetBrains\\IntelliJ IDEA 2022.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external"
   }
 }]]></component>
@@ -71,8 +84,23 @@
       <workItem from="1672320658269" duration="4000" />
       <workItem from="1672577601722" duration="2039000" />
       <workItem from="1672579924102" duration="29000" />
-      <workItem from="1673184243643" duration="384000" />
+      <workItem from="1673184243643" duration="1326000" />
+      <workItem from="1673703334327" duration="4000" />
+      <workItem from="1673792016230" duration="3000" />
+      <workItem from="1673794147405" duration="137000" />
+      <workItem from="1674562949189" duration="139000" />
+      <workItem from="1674563134993" duration="93000" />
+      <workItem from="1674563238237" duration="62000" />
+      <workItem from="1674563507740" duration="1128000" />
     </task>
+    <task id="LOCAL-00001" summary="단어공부 1157">
+      <created>1674564528733</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674564528733</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,6 +116,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="단어공부 1157" />
+    <option name="LAST_COMMIT_MESSAGE" value="단어공부 1157" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
